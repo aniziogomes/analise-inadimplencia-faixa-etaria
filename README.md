@@ -1,6 +1,14 @@
-# Análise de Inadimplência por Faixa Etária  
+# Análise de Inadimplência por Faixa Etária
 
 Este repositório documenta uma análise de dados exploratória focada em compreender como diferentes faixas etárias se relacionam com a inadimplência de clientes em um banco. Utilizando visualizações e estatísticas descritivas, esta análise destaca padrões críticos para ajudar na tomada de decisões financeiras.
+
+## Banco de Dados
+
+O dataset utilizado na análise está disponível no repositório:
+
+- **Nome do arquivo**: `datasets/bank_marketing.xlsx`  
+- **Fonte**: Dados simulados de uma campanha de marketing bancário "KAGLLE".  
+- **Descrição**: Contém informações sobre clientes bancários, incluindo idade, profissão, estado civil, saldo na conta corrente, entre outros.  
 
 ## Objetivo  
 
